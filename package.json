@@ -1,0 +1,29 @@
+{
+  "name": "blockchain",
+  "version": "1.0.0",
+  "description": "Blockchain simple example in JS",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrm8488/blockchain.git"
+  },
+  "keywords": [
+    "blockchain",
+    "simple",
+    "example",
+    "crypto",
+    "js"
+  ],
+  "author": "Manuel Romero",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrm8488/blockchain/issues"
+  },
+  "homepage": "https://github.com/mrm8488/blockchain#readme",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  }
+}
